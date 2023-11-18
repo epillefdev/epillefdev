@@ -10,4 +10,6 @@
 
 #### Ferramenta que utilizo:
 
-#### Onde me encontrar:
+#### Onde entrar em contato comigo:
+
+#### Estatística:
