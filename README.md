@@ -20,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=epillefdev&show_icons=true&theme=dracula&locale=en&layout=compact" alt="epillefdev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=epillefdev&show_icons=true&theme=dracula&locale=en" alt="epillefdev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=epillefdev&" alt="epillefdev" /></p>
