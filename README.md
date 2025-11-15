@@ -2,8 +2,6 @@
 
 ### A passionate Full Stack Java Developer from Brazil.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=epillefdev&label=Profile views&color=0e75b6&style=flat" alt="epillefdev" /> </p>
-
 - 🔭 I'm currently working on **Java Full-Stack projects.**
 
 - 🌱 I'm currently learning **AWS Certificates.**
