@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working on **Java Full-Stack projects.**
 
-- 🌱 I'm currently learning **AWS Certificates.**
+- 🌱 I'm currently learning **AWS Certificates and LPI Certificates.**
 
 - 👯 I'm looking to collaborate on **Open-Source Project.**
 
