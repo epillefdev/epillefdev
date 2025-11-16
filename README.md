@@ -2,13 +2,13 @@
 
 ### A passionate Full Stack Java Developer from Brazil.
 
-- 🔭 I'm currently working on **Java Full-Stack projects.**
+- 🔭 I'm currently working on **Java projects.**
 
 - 🌱 I'm currently learning **AWS and LPI Certificates.**
 
 - 👯 I'm looking to collaborate on **Open-Source Project.**
 
-- 💬 Ask me about **Java, Spring Boot, React, Next.js, PostgreSQL and AWS.**
+- 💬 Ask me about **Java, Spring, React, Next.js, PostgreSQL and AWS.**
 
 - 📫 How to reach me **epillefdev@gmail.com**
 
